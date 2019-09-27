@@ -1,2 +1,2 @@
 # todo-list-cpp
-todo list in c++
+Todo list in C++
